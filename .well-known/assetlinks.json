@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.carsearch.app",
+            "sha256_cert_fingerprints": [
+                "3D:23:2F:CB:31:8D:F7:15:DE:8B:F3:A7:68:05:2E:28:96:AD:52:A7:38:A2:01:FE:95:08:BC:7C:D1:1D:13:A7"
+            ]
+        }
+    }
+]
