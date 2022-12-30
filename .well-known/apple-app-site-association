@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "SCZ7KP2SD6.com.carsearch.app",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
